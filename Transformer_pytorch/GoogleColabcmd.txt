@@ -1,0 +1,7 @@
+!cp "/content/drive/MyDrive/NLP/transformer_utils.py" .
+
+!pip install torchtext==0.6.0
+
+!python -m spacy download en
+
+
